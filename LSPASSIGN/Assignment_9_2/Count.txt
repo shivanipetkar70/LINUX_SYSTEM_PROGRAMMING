@@ -1,0 +1,2 @@
+No of Small Letters are : 6
+No of Capital letters are : 6
